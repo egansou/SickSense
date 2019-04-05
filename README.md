@@ -12,8 +12,9 @@ A responsive and interactive website that allows users to submit entries detaili
 
 ## Contributing
 
-* Van-Nhan Nguyen (https://github.com/johnnyn1261)
+* Enock Gansou (https://github.com/egansou)
 * Israel Endegena (https://github.com/israelEn)
 * Jeffrey Sweene (https://github.com/jrSweeney)
-* Enock Gansou (https://github.com/egansou)
 * Kasim Helil (https://github.com/kasimhelil)
+* Van-Nhan Nguyen (https://github.com/johnnyn1261)
+
